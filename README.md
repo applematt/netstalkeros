@@ -2,4 +2,4 @@
 
 Under construction
 
-#### Building tools for IT Professionals
+#### We build tools for IT Professionals

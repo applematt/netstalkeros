@@ -1,5 +1,8 @@
 # NetStalkerOS
+#### Simply beautiful network security.
 
-Under construction
+Under construction. Please come back soon.
 
-#### We build tools for IT Professionals
+---
+
+###### Another project by BIT ([Blueguppie IT](http://blueguppie.com)).
